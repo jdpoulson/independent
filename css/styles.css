@@ -1,0 +1,51 @@
+.funeral {
+  margin: 12px;
+  border: 2px solid blue;
+  padding: 2px;
+  background-color: orange;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.funeral p {
+  font-weight: bold;
+  color: blue;
+}
+
+.grand {
+  color: pink;
+}
+
+h1 {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+}
+
+.project p {
+  margin: 12px;
+  padding: 2px;
+  border: 2px solid red;
+}
+
+.project ul {
+  margin: 12px;
+  padding: 2px;
+  border: 2px solid blue;
+}
+
+.project ol {
+  margin: 12px;
+  padding: 2px;
+  border: 2px solid yellow;
+}
+
+.panel {
+  border: 2px solid green;
+}
+
+.jumbotron {
+  text-align: center;
+}
