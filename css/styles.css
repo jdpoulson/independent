@@ -27,19 +27,19 @@ h1 {
 .project p {
   margin: 12px;
   padding: 2px;
-  border: 2px solid red;
+  float: left;
 }
 
 .project ul {
   margin: 12px;
   padding: 2px;
-  border: 2px solid blue;
+  float: left;
 }
 
 .project ol {
   margin: 12px;
   padding: 2px;
-  border: 2px solid yellow;
+  float: left;
 }
 
 .panel {
